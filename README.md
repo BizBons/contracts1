@@ -13,4 +13,4 @@ Download and install XAMPP,WAMPP or LAMP [ Dowload here ](https://bitnami.com/st
 + Login to phpMyadmin and create a database 
    name the database `olvoting_db`
 + open the cloned repo navigate to `voting/DB` folder import `olvoting_db.sql` file to the database.[ See the sql file here ](https://github.com/BizBons/voting_webApp/blob/master/DB/olvoting_db.sql)
-+ if the database is imported well then navigate to localhost/voting and login to use that app.You can edit and change values in the database to suite your uses
++ if the database is imported well then navigate to `localhost:8080/voting` and login to use that app.You can edit and change values in the database to suite your uses
