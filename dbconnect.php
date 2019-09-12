@@ -6,7 +6,7 @@ define("HOST", "localhost");
 // Database user
 define("DBUSER", "root");
 // Database password
-define("PASS", "hill1407");
+define("PASS", "");
 // Database name
 define("DB", "olvoting_db");
 
